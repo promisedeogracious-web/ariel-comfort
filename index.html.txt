@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ariel Comfort & Interior</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- NAVBAR -->
+<header>
+    <div class="logo">Ariel Comfort & Interior</div>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<!-- HERO -->
+<section class="hero" id="home">
+    <div class="hero-content">
+        <h1>Redefining Comfort & Interior Elegance</h1>
+        <p>Premium beddings, curtains, and interior solutions designed for modern living.</p>
+        <a href="#contact" class="btn">Order via WhatsApp</a>
+    </div>
+</section>
+
+<!-- ABOUT -->
+<section class="about" id="about">
+    <h2>About Us</h2>
+    <p>
+        Ariel Comfort & Interior is dedicated to bringing luxury, warmth, and elegance
+        into homes and hospitality spaces through premium comfort solutions.
+    </p>
+</section>
+
+<!-- SERVICES -->
+<section class="services" id="services">
+    <h2>Our Services</h2>
+
+    <div class="service-box">
+        <h3>Luxury Beddings</h3>
+        <p>Duvets, pillows, cushions, mattress covers, runners.</p>
+    </div>
+
+    <div class="service-box">
+        <h3>Curtains & Installation</h3>
+        <p>Custom curtain designs with professional installation.</p>
+    </div>
+
+    <div class="service-box">
+        <h3>Hospitality Supplies</h3>
+        <p>Towels, bathrobes, bathmats, disposable slippers.</p>
+    </div>
+
+    <div class="service-box">
+        <h3>Interior Styling</h3>
+        <p>Bedroom and living room interior enhancement.</p>
+    </div>
+</section>
+
+<!-- GALLERY -->
+<section class="gallery" id="gallery">
+    <h2>Gallery</h2>
+    <div class="gallery-grid">
+        <div class="gallery-item">Image 1</div>
+        <div class="gallery-item">Image 2</div>
+        <div class="gallery-item">Image 3</div>
+        <div class="gallery-item">Image 4</div>
+    </div>
+</section>
+
+<!-- CONTACT -->
+<section class="contact" id="contact">
+    <h2>Contact Us</h2>
+    <p>📍 Kampala, Uganda</p>
+    <p>📞 +256 XXX XXX XXX</p>
+    <p>💬 WhatsApp available</p>
+
+    <a href="https://wa.me/256XXXXXXXXX" class="btn">Chat on WhatsApp</a>
+</section>
+
+<!-- FOOTER -->
+<footer>
+    <p>© 2026 Ariel Comfort & Interior | Luxury Comfort for Modern Living</p>
+</footer>
+
+</body>
+</html>
